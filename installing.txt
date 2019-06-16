@@ -7,5 +7,5 @@ laravel new project_name
 composer create-project --prefer-dist laravel/laravel blog "5.6.*"
 * Tạo máy chủ phát triển tích hợp của PHP để phục vụ ứng dụng thì sử dụng lệnh :
 php artisan serve -  Lệnh này sẽ bắt đầu một máy chủ phát triển tại http://localhost:8000
- Them noi dung
+cập nhật từ server xuống local
 
